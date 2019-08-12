@@ -1,1 +1,2 @@
 test merge and no-ff merge.
+this is no-ff merge.
