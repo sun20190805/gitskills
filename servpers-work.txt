@@ -1,1 +1,2 @@
 test serveral persons work together in git.
+from outer dir gitskills.
