@@ -1,0 +1,2 @@
+test serveral persons work together in git.
+from inside dir gitskills.
