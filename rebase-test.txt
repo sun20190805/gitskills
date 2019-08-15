@@ -1,3 +1,4 @@
 test rebase command.
 add one line.
 outer add.
+this is inside repo add.
